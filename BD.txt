@@ -1,0 +1,4 @@
+create table traduccion(
+id_traduccion NUMBER PRIMARY KEY,
+espaniol VARCHAR2(200) NOT NULL,
+mapudungun VARCHAR2(200) NOT NULL)
